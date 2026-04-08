@@ -1,10 +1,5 @@
 Base De Datos ( VIP CHEAT PecosoModz )
 
-Client:|zzz|zzz|1|2|3|
-Inicio:06-02-2026
-Expira:25-04-2026
-HWID:S-1-5-21-3376790101-1987915670-3522719274-1001
-
 Client:|PecosoModz|123456|1|2|3|
 Inicio:06-02-2026
 Expira:25-04-2026
