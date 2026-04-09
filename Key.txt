@@ -2,7 +2,7 @@ Base De Datos ( VIP CHEAT PecosoModz )
 
 Client:|diegoD12|perroygato|1|0|0|
 Inicio:08-04-2026
-Expira:08-05-2026
+Expira:09-05-2026
 HWID:S-1-5-21-3343646402-2326593243-3378776516-1002
 
 Client:|PecosoModz|123456|1|2|3|
